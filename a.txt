@@ -2,3 +2,4 @@ first line
 master line
 branch line
 final line
+append line
